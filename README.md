@@ -1,4 +1,4 @@
-[![MasterHead](https://tenor.com/bVG8n.gif)](watashiwaaniket.github.io)
+[![MasterHead](https://media.giphy.com/media/ckr4W2ppxPBeIF8dx4/giphy.gif)](watashiwaaniket.github.io)
 <h1 align="center">Hello There! I'm Aniket Dhakane</h1>
 <h3 align="center">A wizard who generates code instead of potions and also yeets npc's in games ;)</h3>
 <img align="right" alt="SmashingTheKeyboard" width="400" src="https://media.giphy.com/media/EwjNfsH3RuRg1SZw4d/giphy.gif">
