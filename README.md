@@ -1,6 +1,5 @@
 <h1 align="center">Hello There! I'm Aniket Dhakane</h1>
 <h3 align="center">A wizard who generates code instead of potions and also yeets npc's in games ;)</h3>
-<img align="right" alt="SmashingTheKeyboard" width="400" src="https://media.giphy.com/media/EwjNfsH3RuRg1SZw4d/giphy.gif">
 
 - 🌱 I’m currently learning **ReactJs**
 
