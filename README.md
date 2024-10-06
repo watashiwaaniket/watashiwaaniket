@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 You can view my portfolio at [aniketdhakane.xyz](https://wwww.aniketdhakane.xyz)
+- 👨‍💻 You can view my portfolio at [https://wwww.aniketdhakane.xyz](http://aniketdhakane.xyz)
 
 - 💬 Ask me about **ReactJs**
 
