@@ -1,11 +1,11 @@
 <h1 align="center">Hello There! I'm Aniket Dhakane</h1>
 <h3 align="center">A wizard who generates code instead of potions and also yeets npc's in games ;)</h3>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 You can view my portfolio at [watashiwaaniket.github.io](watashiwaaniket.github.io)
+- 👨‍💻 You can view my portfolio at [aniketdhakane.xyz](https://wwww.aniketdhakane.xyz)
 
-- 💬 Ask me about **Flutter, Figma, UE5**
+- 💬 Ask me about **ReactJs**
 
 - 📫 How to reach me **aniketdhakane3@gmail.com**
 
